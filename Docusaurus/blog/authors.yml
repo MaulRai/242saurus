@@ -1,3 +1,21 @@
+maulana:
+  name: Muhammad Raihan Maulana
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/MaulRai
+  image_url: https://trello.com/1/cards/6702ee3e9c024e03fcc21e96/attachments/6702f07656d5c9dcaa16826f/previews/6702f07656d5c9dcaa168278/download/79.webp
+  page: true
+  socials:
+    github: MaulRai
+
+firaz:
+  name: Muhammad Firaz Al Aqib
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/FasiIkom
+  image_url: https://trello.com/1/cards/6702ef99f77a78987f625aa5/attachments/6702f14ae8ebc345c0ae1658/previews/6702f14be8ebc345c0ae1712/download/108.webp
+  page: true
+  socials:
+    github: FasiIkom
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
